@@ -1,0 +1,64 @@
+#phone-header {
+	height: 3%;
+	display: flex;
+	justify-content: space-between;
+	background-color: #212121;
+	color: white;
+	white-space: nowrap;
+	position: relative;
+}
+
+#time {
+	width: 33%;
+	height: 24px;
+}
+
+#phone-signal {
+	width: 33%;
+	height: 24px;
+	display: flex;
+}
+
+#cell {
+	width: 33%;
+	height: 24px;
+	display: flex;
+	flex-flow: row nowrap;
+	justify-content: flex-end;
+	align-items: center;
+}
+#cell div:nth-child(2){
+	width: 40px;
+	height: 65%;
+	border: 1px solid white;
+}
+#cell div:nth-child(2) div{
+	width: 80%;
+	height: 97%;
+	background-color: chartreuse;
+}
+#cell div:nth-child(3){
+	width: 1px;
+	height: 40%;
+	border: 1px solid white;
+	margin: 0px 5px 0px 0px;
+}
+.signal{
+	width: 7px;
+	height: 7px;
+	border-radius: 50%;
+	background-color: white;
+	align-self: center;
+	margin: 1px;
+}
+.no-signal{
+	width: 4.5px;
+	height: 4.5px;
+	border-radius: 50%;
+	border: 1px solid white;
+	align-self: center;
+	margin: 1px;
+}
+.time{
+	text-align: center;
+}

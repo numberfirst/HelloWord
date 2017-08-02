@@ -1,0 +1,52 @@
+#add-function{
+	height: 30%;
+	width: 38%;
+	/*border: 1px solid #FF0000;*/
+	position: absolute;
+	top: 100px;
+	right: 0px;	
+	/*visibility: hidden;*/
+}
+#triangle-up-one{
+	height: 0px;
+	width: 0px;
+	border-left: 6px solid transparent;
+	border-right: 6px solid transparent;
+	border-bottom: 10px solid #212121;
+	margin: 0px 0px 0px 64%;
+	
+}
+.smallfunction{
+	height: 24%;
+	/*border: 1px solid #FF0000;*/
+	display: flex;
+	flex-flow: row nowrap;
+	line-height: 55px;
+	color: #FFFFFF;
+	background-color: #212121;
+}
+.show-width{
+	width:40%;
+	height: 98%;
+	/*border: 1px solid #FF0000;*/
+}
+.smallphoto1{
+	background: url(/web.07-24/img/icon/control/发起群聊.svg) no-repeat;
+	background-size: 40px;
+	background-position: center;
+}
+.smallphoto2{
+	background: url(/web.07-24/img/icon/control/添加朋友.svg) no-repeat;
+	background-size: 45px;
+	background-position: center;
+}
+.smallphoto3{
+	background: url(/web.07-24/img/icon/control/扫一扫.svg) no-repeat;
+	background-size: 45px;
+	background-position: center;
+}
+.smallphoto4{
+	background: url(/web.07-24/img/icon/control/收付款.svg) no-repeat;
+	background-size: 45px;
+	background-position: center;
+}

@@ -1,0 +1,9 @@
+#text {	
+	height: 80%;
+	flex-grow: 1;
+	overflow: scroll;
+	position: relative;
+}
+::-webkit-scrollbar {
+	display:none;
+}

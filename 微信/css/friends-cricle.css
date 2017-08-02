@@ -1,0 +1,174 @@
+.show-margin1{
+	margin: 0px 0px 0px 5px;
+}
+.show-color{
+	color: #283593;
+}
+.show-space{
+	white-space: nowrap;
+}
+#back-img{
+	height: 40%;
+	background: url(../img/u=739984748,328631664&fm=26&gp=0.jpg) no-repeat;
+	background-size: 100% 100%;
+}
+#me-infor{
+	height: 17%;
+	width: 100%;
+	display: flex;
+	flex-flow: row nowrap;
+	position: absolute;
+	top: 30%;
+	z-index: 1;
+}
+#me-name{
+	width: 65%;
+	height: 98%;
+	line-height: 300%;
+	font-size: 30px;
+	text-align: right;
+}
+#me-photo{
+	width: 150px;
+	height: 98%;
+	background: url(../img/u=144992514,518965588&fm=200&gp=0.jpg) no-repeat;
+	background-size: 100% 100%;
+}
+#friends-trends{
+	height: auto;
+	flex-grow: 1;
+	position: relative;
+}
+.friends-trends-div{
+	height: auto;
+	min-height: 200px;
+	max-height: 900px;
+	display: flex;
+	flex-flow: row nowrap;
+}
+.friends-photo{
+	width: 65px;
+	height: 200px;
+	margin: 0px 0px 0px 10px;
+}
+.friends-photo-one{
+	background: url(../img/u=375279869,793115903&fm=173&s=F54E357757537DD24EC4C4630300E038&w=218&h=146&img.JPEG) no-repeat;
+	background-size: 100% 32%;
+	background-position-y: 40px;
+}
+.friends-photo-two{
+	background: url(/web.07-24/img/photo/奥巴马-01.jpg) no-repeat;
+	background-size: 100% 32%;
+	background-position-y: 40px;
+}
+.friends-photo-three{
+	background: url(/web.07-24/img/photo/汉堡.jpg) no-repeat;
+	background-size: 100% 32%;
+	background-position-y: 40px;
+}
+.friends-photo-four{
+	background: url(/web.07-24/img/photo/王者荣耀.jpg) no-repeat;
+	background-size: 100% 32%;
+	background-position-y: 40px;
+}
+.trends{
+	width: 80%;
+	height: auto;
+	min-height: 100px;
+	max-height: 500px;
+}
+.friends-name{
+	height: 25px;
+	margin: 40px 0px 0px 5px;
+	font-size: 21px;
+}
+.friends-content{
+	height: auto;
+	max-height: 100px;
+}
+.friends-showphoto{
+	height: auto;
+	max-height: 400px;
+	max-width: 350px;
+	display: flex;
+	flex-flow: row nowrap;
+}
+.showphoto-one{
+	min-height: 200px;
+	background: url(../img/u=1008580721,3051664619&fm=26&gp=0.jpg) no-repeat;
+	background-size: 300px;
+}
+.showphoto-two{
+	min-height: 200px;
+	background: url(../img/u=1089399937,1684001946&fm=26&gp=0.jpg) no-repeat;
+	background-size: 300px;
+}
+.showphoto-three{
+	min-height: 200px;
+	background: url(../img/u=874405386,1597972267&fm=117&gp=0.jpg) no-repeat;
+	background-size: 300px;
+}
+.show-photo-four-1{
+	min-height: 100px;
+	width: 35%;
+	background: url(../img/u=2478503541,1511209005&fm=173&s=E8C2834786F68C710EE4B8030300E0C2&w=218&h=146&img.JPEG) no-repeat;
+	background-size: contain;
+}
+.show-photo-four-2{
+	min-height: 100px;
+	width: 35%;
+	background: url(../img/u=800803725,2276193906&fm=173&s=ECE02CC53C491A55021FA98B0300508B&w=218&h=146&img.JPEG) no-repeat;
+	background-size: contain;
+	margin: 0px 0px 0px 10px;
+}
+.reply{
+	height: 25px;
+	display: flex;
+	flex-flow: row nowrap;
+}
+.reply-left{
+	width: 20%;
+	color: #9E9E9E;
+}
+.reply-right{
+	width: 80%;
+	background:url(/web.07-24/img/icon/moments/回复区域.svg) no-repeat ;
+	background-size: contain;
+	background-position-x: right;
+}
+.support-criticism{
+	height: auto;
+	max-height: 150px;
+	background-color: #EEEEEE;
+}
+#triangle-up{
+	height: 0px;
+	width: 0px;
+	border-left: 6px solid transparent;
+	border-right: 6px solid transparent;
+	border-bottom: 10px solid #EEEEEE;
+	margin: 0px 0px 0px 15px;
+}
+.support-people{
+	display: flex;
+	flex-flow: row nowrap;
+}
+.support-people-left{
+	width: 25px;
+	height: 25px;
+	background: url(/web.07-24/img/icon/moments/赞.svg) no-repeat;
+	background-size: contain;
+	background-position-y: center;
+}
+.criticism{
+	height: auto;
+	display: flex;
+	flex-flow: row nowrap;
+}
+.criticism-people{
+	width:60px;
+}
+.critisicm-content{
+	width:82%;
+}
+

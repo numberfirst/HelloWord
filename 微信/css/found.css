@@ -1,0 +1,79 @@
+.show-margin {
+	margin: 5% 0px;
+}
+
+.show-height {
+	height: 9%;
+}
+
+.show-height1 {
+	height: 19%;
+}
+
+.show-height3 {
+	height: 49%;
+}
+.show-size {
+	line-height: 70px;
+	font-size: 20px;
+}
+.icon{
+	height:99%;
+	width: 15%;
+}
+.found-border{
+	border-bottom: 1px solid #E0E0E0;
+}
+#friends-clecir div:first-child{
+	background: url(/web.07-24/img/icon/dicovery/朋友圈.svg) no-repeat;
+	background-size: 40px;
+	background-position: center;
+}
+
+.show-flex{
+	display: flex;
+	flex-flow: row nowrap;
+	background-color: #FAFAFA;
+}
+#sweep-rock div:first-child div:first-child{
+	background: url(/web.07-24/img/icon/dicovery/扫一扫.svg) no-repeat;
+	background-size: 40px;
+	background-position: center;
+}
+#sweep-rock div:last-child div:first-child{
+	background: url(/web.07-24/img/icon/dicovery/摇一摇.svg) no-repeat;
+	background-size: 40px;
+	background-position: center;	
+}
+#sociality div:first-child div:first-child{
+	background: url(/web.07-24/img/icon/dicovery/附近的人.svg) no-repeat;
+	background-size: 40px;
+	background-position: center;
+}
+#sociality div:last-child div:first-child{
+	background: url(/web.07-24/img/icon/dicovery/漂流瓶.svg) no-repeat;
+	background-size: 40px;
+	background-position: center;
+}
+#amusement div:first-child div:first-child{
+	background: url(/web.07-24/img/icon/dicovery/购物.svg) no-repeat;
+	background-size: 40px;
+	background-position: center;
+}
+#amusement div:last-child div:first-child{
+	background: url(/web.07-24/img/icon/dicovery/游戏.svg) no-repeat;
+	background-size: 40px;
+	background-position: center;
+}
+
+#small-program div:first-child{
+	background: url(/web.07-24/img/icon/dicovery/小程序.svg) no-repeat;
+	background-size: 40px;
+	background-position: center;
+}
+a {
+	text-decoration: none;
+ }
+ p{
+ 	color: #000000;
+ }

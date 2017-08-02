@@ -1,0 +1,40 @@
+#header {
+	height: 70px;
+	display: flex;
+	justify-content: space-around;
+	background-color: #212121;
+	opacity: .9;
+	position: relative;
+}
+
+#header div {
+	height: 70px;
+}
+#return{
+	width: 10%;
+	background: url(/web.07-24/img/icon/material/返回.svg) no-repeat;
+	background-size: 40px;
+	background-position: center;
+}
+#header-name {
+	width: 25%;
+	font-size: 25px;
+	line-height: 70px;
+	text-indent: 20px;
+	color: #F0F8FF;
+}
+
+#header-search {
+	width: 40%;
+	background: url(/web.07-24/img/icon/control/搜索.svg) no-repeat;
+	background-size: 40px;
+	background-position: right;
+}
+
+#header-add{
+	width: 25%;
+	background: url(/web.07-24/img/icon/material/加号.svg) no-repeat;
+	background-size: 40px;
+	background-position:center;
+}
+

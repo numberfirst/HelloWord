@@ -1,0 +1,53 @@
+#bottom-menu {
+	height: 80px;
+	display: flex;
+	justify-content: space-around;
+	align-items: flex-end;
+	background-color: #F5F5F5;
+	opacity: .9;
+	border-top: 1px solid #E0E0E0;
+	position: relative;
+}
+.show-nature{
+	width: 25%;
+	height: 70px;
+	text-align: center;
+}
+.sub1 {
+	height: 70%;
+	background: url(/web.07-24/img/icon/menu/聊天-press.svg) no-repeat;
+	background-size: contain;
+	background-position: center;
+}
+.sub1-1 {
+	height: 70%;
+	background: url(/web.07-24/img/icon/menu/聊天.svg) no-repeat;
+	background-size: contain;
+	background-position: center;
+}
+.sub2 {
+	height: 70%;
+	background: url(/web.07-24/img/icon/menu/通讯录.svg) no-repeat;
+	background-size: contain;
+	background-position: center;
+}
+
+.sub3 {
+	height: 70%;
+	background: url(/web.07-24/img/icon/menu/发现.svg) no-repeat;
+	background-size: contain;
+	background-position: center;
+}
+.sub3-1 {
+	height: 70%;
+	background: url(/web.07-24/img/icon/menu/发现-press.svg) no-repeat;
+	background-size: contain;
+	background-position: center;
+}
+.sub4 {
+	height: 70%;
+	background: url(/web.07-24/img/icon/menu/me.svg) no-repeat;
+	background-size: contain;
+	background-position: center;
+}
+

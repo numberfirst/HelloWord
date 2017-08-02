@@ -1,0 +1,76 @@
+.friends-chat{
+	height: 100px;
+	display: flex;
+	flex-flow: row nowrap;
+	white-space: nowrap;
+	border-top: 1px solid #E0E0E0;
+}
+.friends-photo{
+	width: 20%;
+}
+.chat-infor{
+	 width: 60%;
+}
+.chat-time{
+	width: 19%;
+	line-height: 50px;
+	color: #9E9E9E;
+}
+.friends-name{
+	height: 54%;
+	line-height: 50px;
+	font-size: 20px;
+	text-indent: 15px;
+}
+.chat-information{
+	height:44%;
+	line-height: 200%;
+	font-size: 5px;
+	text-indent: 15px;
+	color: #9E9E9E;
+}
+.photo1{
+	background: url(/web.07-24/img/photo/奥巴马-01.jpg) no-repeat;
+	background-size: contain;
+	background-position: center;
+}
+.photo2{
+	background: url(/web.07-24/img/photo/川普-01.jpg) no-repeat;
+	background-size: contain;
+	background-position: center;
+}
+.photo3{
+	background: url(/web.07-24/img/photo/郭德纲.jpg) no-repeat;
+	background-size: contain;
+	background-position: center;
+}
+.photo4{
+	background: url(/web.07-24/img/photo/汉堡.jpg) no-repeat;
+	background-size: contain;
+	background-position: center;
+}
+.photo5{
+	background: url(/web.07-24/img/photo/马化腾.png) no-repeat;
+	background-size: contain;
+	background-position: center;
+}
+.photo6{
+	background: url(/web.07-24/img/photo/男孩-01.jpg) no-repeat;
+	background-size: contain;
+	background-position: center;
+}
+.photo7{
+	background: url(/web.07-24/img/photo/女孩-01.jpeg) no-repeat;
+	background-size: contain;
+	background-position: center;
+}
+.photo8{
+	background: url(/web.07-24/img/photo/女孩-02.jpeg) no-repeat;
+	background-size: contain;
+	background-position: center;
+}
+.photo9{
+	background: url(/web.07-24/img/photo/三胖-01.jpg) no-repeat;
+	background-size: contain;
+	background-position: center;
+}
